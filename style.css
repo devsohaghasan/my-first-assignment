@@ -76,7 +76,140 @@
   margin-left: 150px;
 }
 
+.color{
+    color: rgb(232, 30, 30);
+}
 
+
+.seventh-text{
+    font-size: 30px;
+    font-family: Merriweather;
+    width: 1250px;
+    height: 400px;
+    background-color: blanchedalmond;
+    padding: 50px;
+    border-radius: 10px;
+    flex-shrink: 0;
+}
+
+.maintwo-box{
+    padding: 50px;
+}
+
+.text-control{
+    text-align: center;
+}
+
+  
+button{
+    background-color: rgb(251, 72, 12);
+    font-size: 25px;
+    border-radius: 5px;
+}
+
+
+
+.three-item{
+    display: flex;
+    font-size: 15px;
+    font-family: Merriweather;
+    width: 1250px;
+    height: 400px;
+    background-color: rgb(244, 240, 235);
+    padding: 50px;
+    border-radius: 10px;
+    flex-shrink: 0;
+    
+}
+
+.item-shet{
+    padding: 50px;
+}
+
+
+.new-best{
+    color: rgb(232, 33, 33);
+    font-size: 20px;
+}
+
+.pictwo{
+    border-radius: 463px;
+    border: 15px solid red;
+}
+
+
+.three-box-one{
+    padding-left: 90px;
+}
+.text-eight{
+     text-align: center;
+}
+
+
+.Holidays{
+    font-size: 75px;
+    color: brown;
+}
+
+.two-picture{
+    padding-right: 0%;
+
+}
+.one-picture{
+    padding-left: 0;
+
+}
+
+.twopicure{
+    display: flex;
+}
+
+
+.pic-png{
+    display: flex;
+    padding-top: 50px;
+}
+
+
+.text-nine{
+    padding: 50px;
+    height: 900px;
+    width: 1250px;
+    background-color: rgb(222, 182, 154);
+    margin: 50px;
+    border-radius: 10px;
+
+    
+}
+
+.think{
+    display: flex;
+}
+
+.src{
+   padding-right: 10px;
+}
+
+.semelast{
+    padding: 50px;
+    height: 900px;
+    width: 1250px;
+    background-color: rgb(240, 236, 233);
+    margin: 50px;
+    border-radius: 10px;
+}
+
+
+.img{
+    padding-left: 40px;
+}
+
+.g-box{
+    display: flex;
+    height: 30px;
+    width: 400px;
+    color: rgb(32, 203, 203);
+}
 
 
 
