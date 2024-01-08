@@ -1,0 +1,84 @@
+.header-section{
+    text-align: center;
+    background-image: url(./Banner\ Image.png); text-align: center;
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    margin-left: 70px;
+}
+
+
+.first-text{
+    padding: 50px;
+    text-align: center;
+    color: rgb(113, 104, 243);
+    font-size: 50px;
+    font-family: Merriweather;
+}
+
+
+.second-text{
+    color: rgb(216, 25, 25);
+    font-size: 70px;
+    font-family: Merriweather;
+
+}
+
+
+.fourth-text{
+    font-size: 40px;
+    font-family: Merriweather;
+ 
+}
+
+
+.third-text{
+    color: rgb(216, 25, 25);
+    font-size: 20px;
+    font-family: Merriweather;
+}
+
+
+.second-main{
+    padding:50px ;
+}
+
+
+.third-main{
+    text-align: center;
+    background-image: url(./Vectorrr.png); text-align: center;
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    margin-left: 70px;
+    display: flex;
+}
+
+
+.fifth-text{
+    padding: 50px;
+    text-align:left;
+    color: rgb(252, 251, 254);
+    font-size: 50px;
+    font-family: Merriweather;
+}
+
+
+.six-text{
+    padding: 50px;
+    text-align:left;
+    color: rgb(235, 234, 238);
+    font-family: Merriweather;
+}
+
+.pic-added{
+  margin-top: 100px;
+  margin-left: 150px;
+}
+
+
+
+
+
+
+
