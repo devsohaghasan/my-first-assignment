@@ -25,6 +25,7 @@
 }
 
 
+
 .fourth-text{
     font-size: 40px;
     font-family: Merriweather;
@@ -41,6 +42,15 @@
 
 .second-main{
     padding:50px ;
+}
+.second-box{
+   background-color: rgb(242, 241, 238);
+   height: 750px;
+   width: 1250px;
+   margin: 50px;
+   text-align: center;
+   border-radius: 10px;
+   padding: 50px;
 }
 
 
@@ -154,9 +164,15 @@ button{
 .two-picture{
     padding-right: 0%;
 
+
+}
+
+.group-fourty{
+    right: 50px;
 }
 .one-picture{
     padding-left: 0;
+    left: 10px;
 
 }
 
@@ -168,6 +184,7 @@ button{
 .pic-png{
     display: flex;
     padding-top: 50px;
+    left: 100;
 }
 
 
@@ -190,6 +207,47 @@ button{
    padding-right: 10px;
 }
 
+
+
+
+
+.Holi{
+    color: rgb(232, 11, 11);
+}
+.holi-sale{
+    font-size: 75px;
+    font-family:  Merriweather;
+}
+.relative-pic{
+    display: flex;
+    
+}
+.relative{
+    left: 50px;
+    height: 30px;
+}
+.relational-pic{
+    display: flex;
+}
+.discount{
+    text-align: center;
+    padding: 50px;
+    height: 1000px;
+    width: 1250px;
+    background-color: rgb(234, 231, 228);
+    margin: 50px;
+    border-radius: 10px;
+    
+}
+
+
+
+
+
+
+
+
+
 .semelast{
     padding: 50px;
     height: 900px;
@@ -210,6 +268,80 @@ button{
     width: 400px;
     color: rgb(32, 203, 203);
 }
+
+.btn-primary{
+    margin-bottom: 22px;
+    width: 210px;
+    height: 72px;
+    background-color: brown;
+    color: aliceblue;
+    border-radius: 0px 50px 50px 0px;
+    font-size: 20px;
+    font-weight: 600px;
+    margin-top: 48px;
+}
+.input-one{
+    margin-bottom: 22px;
+    width: 438px;
+    height: 72px;
+    border-radius: 20px 0px 0px 20px;
+    position: relative;
+    color: black;
+    font-family: Merriweather;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400px;
+    line-height: normal;
+    left: 8px;
+    margin-top: 48px;
+}
+.fainal{
+    height: 500px;
+    width: 1350px;
+    
+    background-color: rgb(176, 157, 129);
+    padding-top: 100px;
+    padding-bottom: 70px;
+    margin-left: 50px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+
+
+.footer-first{
+    display: inline-flex;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+}
+
+.finish{
+    display: flex;
+    text-align: justify;
+    font-size: 20px;
+    tex
+}
+
+
+
+.footer{
+   height: 300px;
+   width: 1200px;
+   background-color: black;
+   color: aliceblue;
+   margin-left: 50px;
+   padding: 80px;
+}
+
+
+
+
+
+
+
 
 
 
