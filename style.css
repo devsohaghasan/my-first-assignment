@@ -310,24 +310,28 @@ button{
 
 
 .footer-first{
-    display: inline-flex;
+    display:flex;
     font-family: Inter;
     font-size: 24px;
     font-style: normal;
     font-weight: 500;
     line-height: 40px;
+    justify-content: space-between;
+    
 }
 
 .finish{
     display: flex;
-    text-align: justify;
     font-size: 20px;
-    tex
+    justify-content: space-between;
+    padding-top: 100px;
+    
 }
 
 
 
 .footer{
+   text-align: center; 
    height: 300px;
    width: 1200px;
    background-color: black;
@@ -335,6 +339,7 @@ button{
    margin-left: 50px;
    padding: 80px;
 }
+
 
 
 
